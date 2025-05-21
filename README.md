@@ -26,6 +26,8 @@ This organization hosts software and hardware tools developed to support our pro
 For more information or partnership inquiries, visit our website or contact us at:
 
 **Website:** [https://translarity.com](https://translarity.com)  
+**Email:** Sales@Translarity.com
+**Phone Number:** (510) 371-7900
 
 ---
 
